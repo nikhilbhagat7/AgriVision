@@ -25,7 +25,7 @@ This system allows users to:
 - Dockerized for easy deployment
 - Deployable on cloud platforms (AWS / Render)
 
-## Project Structure
+## 📁 Project Structure
 
 ```
 AgriVision-Plant-Disease-Detection/
